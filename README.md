@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Haseeb Ali</h1>
 <h3 align="center">B.s student</h3>
-<img align="right" alt="coding" width="400" scr="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
+
 - I'm currently learning oop
 
 - ⚡ Fun fact **i have no special talent i am only passionately curious**
